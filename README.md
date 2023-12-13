@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Williamdu29
 - 👀 I’m interested in python and AI 
 - 🌱 I’m currently learning python and pytorch
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on self-drinving and yolo programs  
 - 📫 How to reach me ...
 
 <!---
