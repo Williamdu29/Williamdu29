@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Williamdu29
 - 👀 I’m interested in python and AI 
 - 🌱 I’m currently learning python and pytorch
-- 💞️ I’m looking to collaborate on event camera,self-drinving and yolo programs  
+- 💞️ I’m looking to collaborate on 3D reconstruction, event camera,self-driving and yolo programs  
 - 📫 How to reach me ...
 
 <!---
