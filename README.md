@@ -1,4 +1,4 @@
-# Hi, I'm Chengtai Du 👋
+# Hi, I'm Chengtai(William) Du 👋
 
 **AI Researcher & Engineer** · MSECE @ University of Washington
 
